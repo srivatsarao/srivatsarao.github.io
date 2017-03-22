@@ -1810,3 +1810,6 @@ a.list-group-item.active > .badge,
 .img-me{
 	width: 66%;
 }
+p.lead a{
+	color: #fff;
+}
